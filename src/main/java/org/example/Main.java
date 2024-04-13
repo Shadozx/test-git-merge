@@ -9,14 +9,6 @@ class Person {
         this.age = age;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
     public void showInfo() {
         System.out.printf("Person with name - %s and has age - %d%n", name, age);
     }
@@ -28,5 +20,7 @@ public class Main {
         Person person = new Person("Tom", 25);
 
         person.showInfo();
+
+        System.out.println("End!");
     }
 }
