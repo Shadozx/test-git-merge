@@ -30,5 +30,10 @@ public class Main {
         Person person = new Person("Tom", 25);
 
         person.showInfo();
+
+
+        System.out.println("End!");
+
+        System.out.println("ssghsughsg");
     }
 }
