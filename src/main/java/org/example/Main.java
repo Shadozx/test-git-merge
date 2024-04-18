@@ -38,5 +38,7 @@ public class Main {
 
         System.out.println("ssghsughsg");
         System.out.println("shud");
+
+        System.out.println("Some no needed code!");
     }
 }
